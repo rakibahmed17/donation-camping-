@@ -1,18 +1,18 @@
 [
     {
         "id": 1,
-        "cover": "https://example.com/food_donation.jpg",
+        "cover": "https://i.postimg.cc/NfpJV9yd/Food.png",
         "title": "Nourish Every Child",
         "category": "Food",
         "description": "Help us provide nutritious meals to underprivileged children in need.",
         "price": 25,
-        "category_bg_color": "#FF6347",
-        "card_bg_color": "#F5DEB3",
+        "category_bg_color": "#03cffc",
+        "card_bg_color": "#038cfc",
         "title_bg_color": "#FFD700"
     },
     {
         "id": 2,
-        "cover": "https://example.com/education_support.jpg",
+        "cover": "https://i.postimg.cc/jjJMLMM1/Education.png",
         "title": "Empower Minds",
         "category": "Education",
         "description": "Support education initiatives for children who lack access to quality learning resources.",
@@ -23,7 +23,7 @@
     },
     {
         "id": 3,
-        "cover": "https://example.com/clothing_drive.jpg",
+        "cover": "https://i.postimg.cc/BnjgVhfv/Clothing.png",
         "title": "Warmth for All",
         "category": "Clothing",
         "description": "Donate winter clothing to keep those in need warm during the cold season.",
@@ -34,7 +34,7 @@
     },
     {
         "id": 4,
-        "cover": "https://example.com/healthcare_support.jpg",
+        "cover": "https://i.postimg.cc/bvQ17WCq/Health.png",
         "title": "Healing Hands",
         "category": "Health",
         "description": "Contribute to medical supplies and healthcare services for vulnerable communities.",
@@ -45,7 +45,7 @@
     },
     {
         "id": 5,
-        "cover": "https://example.com/food_security.jpg",
+        "cover": "https://i.postimg.cc/NfpJV9yd/Food.png",
         "title": "End Hunger Together",
         "category": "Food",
         "description": "Join us in ensuring food security for families facing food insecurity.",
@@ -56,7 +56,7 @@
     },
     {
         "id": 6,
-        "cover": "https://example.com/education_for_all.jpg",
+        "cover": "https://i.postimg.cc/jjJMLMM1/Education.png",
         "title": "Knowledge Gateway",
         "category": "Education",
         "description": "Support initiatives that provide education to underserved communities globally.",
@@ -67,7 +67,7 @@
     },
     {
         "id": 7,
-        "cover": "https://example.com/warmth_drive.jpg",
+        "cover": "https://i.postimg.cc/BnjgVhfv/Clothing.png",
         "title": "Warm Hugs Campaign",
         "category": "Clothing",
         "description": "Help us collect warm clothing to bring comfort to those in need during winter.",
@@ -78,7 +78,7 @@
     },
     {
         "id": 8,
-        "cover": "https://example.com/health_awareness.jpg",
+        "cover": "https://i.postimg.cc/bvQ17WCq/Health.png",
         "title": "Healthy Tomorrow",
         "category": "Health",
         "description": "Support initiatives that promote health awareness and preventive care.",
@@ -89,7 +89,7 @@
     },
     {
         "id": 9,
-        "cover": "https://example.com/community_kitchen.jpg",
+        "cover": "https://i.postimg.cc/NfpJV9yd/Food.png",
         "title": "Cooking for a Cause",
         "category": "Food",
         "description": "Contribute to our community kitchen project to provide meals for those in need.",
@@ -100,7 +100,7 @@
     },
     {
         "id": 10,
-        "cover": "https://example.com/scholarship_program.jpg",
+        "cover": "https://i.postimg.cc/jjJMLMM1/Education.png",
         "title": "Bright Future Scholarships",
         "category": "Education",
         "description": "Support scholarships for talented students who lack financial resources for education.",
@@ -111,7 +111,7 @@
     },
     {
         "id": 11,
-        "cover": "https://example.com/winter_clothing_drive.jpg",
+        "cover": "https://i.postimg.cc/BnjgVhfv/Clothing.png",
         "title": "Winter Warmth Drive",
         "category": "Clothing",
         "description": "Collect warm clothing items for the homeless and those in need during winter.",
@@ -122,7 +122,7 @@
     },
     {
         "id": 12,
-        "cover": "https://example.com/health_wellness.jpg",
+        "cover": "https://i.postimg.cc/bvQ17WCq/Health.png",
         "title": "Wellness for All",
         "category": "Health",
         "description": "Support programs that focus on holistic health and well-being for communities in need.",
