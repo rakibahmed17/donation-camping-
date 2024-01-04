@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "cover": "https://example.com/food_donation.jpg",
+        "title": "Nourish Every Child",
+        "category": "Food",
+        "description": "Help us provide nutritious meals to underprivileged children in need.",
+        "price": 25,
+        "category_bg_color": "#FF6347",
+        "card_bg_color": "#F5DEB3",
+        "title_bg_color": "#FFD700"
+    },
+    {
+        "id": 2,
+        "cover": "https://example.com/education_support.jpg",
+        "title": "Empower Minds",
+        "category": "Education",
+        "description": "Support education initiatives for children who lack access to quality learning resources.",
+        "price": 50,
+        "category_bg_color": "#87CEEB",
+        "card_bg_color": "#F0FFFF",
+        "title_bg_color": "#1E90FF"
+    },
+    {
+        "id": 3,
+        "cover": "https://example.com/clothing_drive.jpg",
+        "title": "Warmth for All",
+        "category": "Clothing",
+        "description": "Donate winter clothing to keep those in need warm during the cold season.",
+        "price": 15,
+        "category_bg_color": "#8B4513",
+        "card_bg_color": "#FFE4B5",
+        "title_bg_color": "#FF4500"
+    },
+    {
+        "id": 4,
+        "cover": "https://example.com/healthcare_support.jpg",
+        "title": "Healing Hands",
+        "category": "Health",
+        "description": "Contribute to medical supplies and healthcare services for vulnerable communities.",
+        "price": 30,
+        "category_bg_color": "#2E8B57",
+        "card_bg_color": "#98FB98",
+        "title_bg_color": "#228B22"
+    },
+    {
+        "id": 5,
+        "cover": "https://example.com/food_security.jpg",
+        "title": "End Hunger Together",
+        "category": "Food",
+        "description": "Join us in ensuring food security for families facing food insecurity.",
+        "price": 20,
+        "category_bg_color": "#FF6347",
+        "card_bg_color": "#F5DEB3",
+        "title_bg_color": "#8B4513"
+    },
+    {
+        "id": 6,
+        "cover": "https://example.com/education_for_all.jpg",
+        "title": "Knowledge Gateway",
+        "category": "Education",
+        "description": "Support initiatives that provide education to underserved communities globally.",
+        "price": 40,
+        "category_bg_color": "#87CEEB",
+        "card_bg_color": "#F0FFFF",
+        "title_bg_color": "#FFD700"
+    },
+    {
+        "id": 7,
+        "cover": "https://example.com/warmth_drive.jpg",
+        "title": "Warm Hugs Campaign",
+        "category": "Clothing",
+        "description": "Help us collect warm clothing to bring comfort to those in need during winter.",
+        "price": 18,
+        "category_bg_color": "#8B4513",
+        "card_bg_color": "#FFE4B5",
+        "title_bg_color": "#FF4500"
+    },
+    {
+        "id": 8,
+        "cover": "https://example.com/health_awareness.jpg",
+        "title": "Healthy Tomorrow",
+        "category": "Health",
+        "description": "Support initiatives that promote health awareness and preventive care.",
+        "price": 35,
+        "category_bg_color": "#2E8B57",
+        "card_bg_color": "#98FB98",
+        "title_bg_color": "#228B22"
+    },
+    {
+        "id": 9,
+        "cover": "https://example.com/community_kitchen.jpg",
+        "title": "Cooking for a Cause",
+        "category": "Food",
+        "description": "Contribute to our community kitchen project to provide meals for those in need.",
+        "price": 22,
+        "category_bg_color": "#FF6347",
+        "card_bg_color": "#F5DEB3",
+        "title_bg_color": "#8B4513"
+    },
+    {
+        "id": 10,
+        "cover": "https://example.com/scholarship_program.jpg",
+        "title": "Bright Future Scholarships",
+        "category": "Education",
+        "description": "Support scholarships for talented students who lack financial resources for education.",
+        "price": 55,
+        "category_bg_color": "#87CEEB",
+        "card_bg_color": "#F0FFFF",
+        "title_bg_color": "#FFD700"
+    },
+    {
+        "id": 11,
+        "cover": "https://example.com/winter_clothing_drive.jpg",
+        "title": "Winter Warmth Drive",
+        "category": "Clothing",
+        "description": "Collect warm clothing items for the homeless and those in need during winter.",
+        "price": 16,
+        "category_bg_color": "#8B4513",
+        "card_bg_color": "#FFE4B5",
+        "title_bg_color": "#FF4500"
+    },
+    {
+        "id": 12,
+        "cover": "https://example.com/health_wellness.jpg",
+        "title": "Wellness for All",
+        "category": "Health",
+        "description": "Support programs that focus on holistic health and well-being for communities in need.",
+        "price": 32,
+        "category_bg_color": "#2E8B57",
+        "card_bg_color": "#98FB98",
+        "title_bg_color": "#228B22"
+    }
+]

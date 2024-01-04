@@ -5,7 +5,7 @@ const Header = () => {
         <div>
             <nav className="flex justify-between shadow-md px-3">
                 <Logo></Logo>
-                <ul className="flex gap-4">
+                <ul className="flex gap-5 py-3">
                     <li>
                         <NavLink
                             to="/"
