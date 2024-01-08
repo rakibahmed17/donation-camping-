@@ -7,7 +7,7 @@ const Card = ({card}) => {
             <Link to={`/cards/${id}`}>
                 <div className="card bg-base-100 shadow-lg">
                     <figure className="p-3">
-                        <img src={cover} alt="Shoes" className="rounded-xl" />
+                        <img src={cover} alt="" className="rounded-xl" />
                     </figure>
                     <div className="card-body">
                         <h2 className="card-title font-bold">{category}</h2>

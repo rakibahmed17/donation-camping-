@@ -10,14 +10,14 @@ const Card3 = ({cards}) => {
         if (!DonateItems) {
             addToDonateArray.push(cards);
             localStorage.setItem("donate", JSON.stringify(addToDonateArray));
-            swal("Good job!", "Donation complete!", "success");
+            swal("Success!", "Donation complete!", "success");
         } else {
             const isExits = DonateItems.find((cards) => cards.id === id);
             if (!isExits) {
                 addToDonateArray.push(...DonateItems, cards);
                 localStorage.setItem("donate", JSON.stringify(addToDonateArray));
             }
-            swal("Good Job!", "Donation complete!", "success");
+            swal("Success!", "Donation complete!", "success");
         }
     };
     return (
